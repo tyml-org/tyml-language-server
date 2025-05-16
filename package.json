@@ -18,10 +18,11 @@
       {
         "id": "tyml",
         "extensions": [
-          ".ini"
+          ".ini",
+          ".tyml"
         ],
         "aliases": [
-          "ini(TYML)"
+          "TYML"
         ]
       }
     ]

@@ -18,8 +18,9 @@
       {
         "id": "tyml",
         "extensions": [
+          ".tyml",
           ".ini",
-          ".tyml"
+          ".toml"
         ],
         "aliases": [
           "TYML"
